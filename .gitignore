@@ -1,4 +1,25 @@
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
+<!DOCTYPE html>
+<!-- Michelle Orns February 13th, 2019 -->
+<html lang="en">
+<head>
+	<link rel="stylesheet" href="css/applystyles11.css">
+	<title>Credit</title>
+	<meta name="description" content="This website provides helpful information about how to build good credit.">
+</head>
+<body>
+	<header>
+		<h1>How to Build Good Credit</h1>
+	</header>
+	<main>
+		<p>Building credit can take awhile, but is possible with following some of these steps:</p>
+			<ul>
+				<li>Get a secured credit-card</li>
+				<li>Keep credit-card utilization below 30%</li>
+				<li>Make payments on-time</li>
+			</ul>
+	</main>
+	<footer>
+		<p>Created by: Michelle Orns</p>
+	</footer>
+</body>
+</html>
